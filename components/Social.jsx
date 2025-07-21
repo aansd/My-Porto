@@ -4,7 +4,7 @@ import { FaSquareThreads } from "react-icons/fa6"
 
 const socials = [
     {icon: <FaGithub />, path: "https://github.com/aansd"},
-    {icon: <FaLinkedinIn />, path: "/"},
+    {icon: <FaLinkedinIn />, path: "https://www.linkedin.com/in/septiyan-abdurrohman-0898b9315/"},
     {icon: <FaInstagram />, path: "https://www.instagram.com/gendaanmu_/#"},
     {icon: <FaSquareThreads />, path: "https://www.threads.com/@gendaanmu_"},
 ]
